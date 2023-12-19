@@ -1,0 +1,35 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    height: 80px;
+    pointer-events: none;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  .Button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .App-button {
+    background-color: #61dafb;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .App-button:hover {
+    background-color: #2185d0;
+  }
+  
